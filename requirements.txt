@@ -1,0 +1,11 @@
+Faker==5.5.1
+faker-ids==0.0.9
+numpy==1.19.5
+pandas==1.2.0
+psycopg2==2.8.6
+python-dateutil==2.8.1
+pytz==2020.5
+six==1.15.0
+SQLAlchemy==1.3.22
+sqlalchemy-greenplum==0.0.1
+text-unidecode==1.3
